@@ -28,8 +28,8 @@ else if (day == "7")
 {
     Console.WriteLine(" Воскресенье - готовься! Завтра ПОНЕДЕЛЬНИК");
 }
-else 
+else
 {
-    Console.WriteLine(" Это вообще не дель недели ");
+    Console.WriteLine(" Это вообще не день недели ");
 }
 
